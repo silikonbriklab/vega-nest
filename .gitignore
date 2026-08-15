@@ -1,0 +1,44 @@
+# ---- Build output directories ----
+build/
+**/build/
+*/example_applications/**/build/
+
+# ---- Object / compiled files ----
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+*.a
+*.lib
+*.out
+
+# ---- Assembler / linker intermediates ----
+*.lst
+*.i
+*.s
+*.d
+
+# ---- Debug files ----
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# ---- Toolchain / SDK env (optional, uncomment if not meant to be tracked) ----
+# vega_sdk_env/
+
+# ---- Editor / IDE files ----
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+
+# ---- Log files ----
+*.log
