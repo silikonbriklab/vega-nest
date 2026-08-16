@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+
 #-------------------------------------------------------------------- 
 #Project Name	: vega-nest
 #Created		: 15-Aug-2026
