@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: Apache-2.0
+
 #include "hal_gpio.h"
 #include "stdlib.h"
 
